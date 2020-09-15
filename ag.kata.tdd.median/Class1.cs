@@ -2,9 +2,9 @@
 
 namespace ag.kata.tdd.median
 {
-    public class Class1
+    public static class Class1
     {
-        public int Median(int[] array)
+        public static int Median(this int[] array)
         {
             return 2;
         }
