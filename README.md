@@ -1,4 +1,4 @@
-# ag.kata.tdd.median
+# Kata TDD Median
 
 The median is the value separating the higher half from the lower half of a data sample (a population or a probability distribution).
 
